@@ -19,8 +19,9 @@ const About =()=>{
 
 
       <p className="lh-copy  center f6 black-70 animated fadeInRight">
-        {'Self-taught web developer with background in foral design, baking Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. and business.  Passionate about applying technology to solve real world problems and to create value.  Learning new things is always excited me.'}
-      </p>
+        {'My name is Nayanika and I am a Full Stack Web developer from India.I am doing B.Tech in Computer Science . I started my journey as a developer in the beginning of 2018. Ever since starting my development journey, I have fallen more in love with the process. I started my way by learning symatic HTML and CSS. I then began working my way through JavaScript. Since then, I have build up my skillset by learning React, SASS, and Bootstrap.Mainly I do front-end work but skilled in node for the backend part.'}</p>
+
+
       <div className="pa3">
       <p className="f4 center">Contact Details</p>
       <hr className="mw4 bb bw1 b--black-10" />
@@ -37,15 +38,15 @@ const About =()=>{
       </div>
 
     <div className="pa3">
-    <a className="link near-black hover-silver dib mh3 tc ph5" href="https://github.com/bellalo12" title="GitHub">
+    <a className="link near-black hover-silver dib mh3 tc ph5" href="https://github.com/nayanika0208" title="GitHub">
     <IoLogoGithub className="dib h2 w2"/>
     <span className="f6 db">GitHub</span>
   </a>
-  <a className="link hover-silver near-black dib mh3 tc ph5" href="https://www.linkedin.com/in/yifang-lo-a0a183158/" title="LinkedIn">
+  <a className="link hover-silver near-black dib mh3 tc ph5" href="https://www.linkedin.com/in/nayanika-singh-27a365140/" title="LinkedIn">
   <IoLogoLinkedin className="dib h2 w2"/>
     <span className="f6 db">LinkedIn</span>
   </a>
-  <a className="link hover-silver near-black dib mh3 tc ph5" href="https://twitter.com//" title="twitter">
+  <a className="link hover-silver near-black dib mh3 tc ph5" href="https://twitter.com/NanoNayanika" title="twitter">
   <IoLogoTwitter className="dib h2 w2"/>
     <span className="f6 db">Twitter</span>
   </a>
@@ -55,7 +56,7 @@ const About =()=>{
      </div>
 
      <div className="ph5 center grow dim pt5">
-     <a className="f6 link br-pill ph3 pv2 mb2 dib white bg-navy shadow-5 animated fadeInUp" href={resume}>Download Resume</a>
+     <a className="f6 link br-pill ph3 pv2 mb2 dib black bg-white shadow-5 animated fadeInUp" href={resume}>Download Resume</a>
    </div>
 </article>
     </div>

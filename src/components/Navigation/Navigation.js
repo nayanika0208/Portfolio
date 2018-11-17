@@ -3,8 +3,8 @@ import plane from './plane.png';
 
 const Navigation =({onRouteChange})=>{
   return(
-    <header className="bg-white black-80 tc pv4 avenir">
-  
+    <header className=" black-80 tc pv4 avenir">
+
   <h1 className="mt2 mb0 baskerville i fw1 f1 animated fadeInLeft">NAYANIKA</h1>
   <h2 className="mt2 mb0 f6 fw4 ttu tracked animated fadeInRight">FULL STACK WEB DEVELOPER</h2>
   <nav className="bt bb tc mw7 center mt4">
